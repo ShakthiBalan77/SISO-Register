@@ -55,6 +55,8 @@ endmodule
 ![IMAGE](DE_SHIFT.jpeg)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![IMAGE](DE_SHIFT.2.jpeg)
+![WhatsApp Image 2026-03-17 at 3 38 24 PM](https://github.com/user-attachments/assets/6a5e3bed-99da-43cc-a8f4-9519acf39ee0)
+
 **RESULTS**
+
 Thus,SISO Shift Register using verilog and validating their functionality using their functional tables has successful execution of the program.
